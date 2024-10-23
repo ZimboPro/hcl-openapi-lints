@@ -21,7 +21,7 @@ anyhow = "1.0.86"
 clap = { version = "4.5.2", features = ["derive"] }
 extism = "1.4.1"
 figment = { version = "0.10.19", features = ["env", "yaml"] }
-hcl-rs = "0.18.0"
+hcl-rs = "0.18.2"
 yaml-hash = "=0.3.0"
 openapiv3 = "2.0.0"
 plugin_core = { path = "./plugin_core" }
