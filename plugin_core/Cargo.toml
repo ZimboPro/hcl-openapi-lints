@@ -8,5 +8,5 @@ edition = "2021"
 [dependencies]
 serde = { version = "1.0.209", features = ["derive"] }
 serde_json = "1.0.127"
-thiserror = "1.0.63"
+thiserror = "2.0.0"
 trustfall = "0.7.1"
