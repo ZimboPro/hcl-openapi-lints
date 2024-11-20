@@ -19,7 +19,7 @@ eula = false
 [dependencies]
 anyhow = "1.0.86"
 clap = { version = "4.5.2", features = ["derive"] }
-extism = "1.4.1"
+extism = "1.9.0"
 figment = { version = "0.10.19", features = ["env", "yaml"] }
 hcl-rs = "0.18.0"
 yaml-hash = "=0.3.0"
